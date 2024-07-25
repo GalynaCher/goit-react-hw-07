@@ -1,0 +1,9 @@
+.contactsUl {
+    gap: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contactsLi {
+    width: 330px;
+}
